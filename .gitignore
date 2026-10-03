@@ -1,0 +1,6 @@
+.env
+portal.db
+uploads/*
+!uploads/.gitkeep
+venv/
+__pycache__/
